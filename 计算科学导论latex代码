@@ -173,25 +173,63 @@
     \item Github
     \begin{itemize}
         \item 个人网站：https://github.com/Pretty-man
-        \item 截图：
+        \item 截图：{
+            \begin{figure}[h!]
+                \centering
+            \includegraphics[scale=0.66]{5.png}
+            \end{figure}
+        }
     \end{itemize}
-    \item 观察者
-    \item 学习强国
-    \item 哔哩哔哩
+    \item 观察者{
+            \newpage
+            \begin{figure}[h!]
+            \centering
+            \includegraphics[scale=0.12]{10.jpg}
+            \end{figure}
+    }
+    \item 学习强国{
+            \begin{figure}[h!]
+            \centering
+            \includegraphics[scale=0.12]{9.jpg}
+            \end{figure}
+    }
+    \item 哔哩哔哩{
+            \newpage
+            \begin{figure}[h!]
+            \centering
+            \includegraphics[scale=0.1]{11.jpg}
+            \end{figure}
+    }
     \item CSDN
     \begin{itemize}
         \item 个人网站：https://me.csdn.net/weixin\_43941332
-        \item 截图
+        \item 截图:{
+                \begin{figure}[h!]
+                \centering
+                \includegraphics[scale=0.5]{1.png}
+                \end{figure}
+        }
     \end{itemize}
     \item 博客园
     \begin{itemize}
         \item 个人网站：https://www.cnblogs.com/Suiyue-Li/
-        \item 截图：
+        \item 截图：{
+        \newpage
+                \begin{figure}[h!]
+                    \centering
+                \includegraphics[scale=0.25]{6.png}
+                \end{figure}
+        }
     \end{itemize}
     \item 小木虫
     \begin{itemize}
         \item 个人网站：http://muchong.com/bbs/space.php?uid=20303524
-        \item 截图：
+        \item 截图：{
+                \begin{figure}[h!]
+                    \centering
+                \includegraphics[scale=0.4]{8.png}
+                \end{figure}
+        }
     \end{itemize}
 \end{itemize}
 
